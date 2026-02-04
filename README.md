@@ -1,11 +1,11 @@
 # Hey there, I'm Manan 👋
 
-I'm a Computer Science student currently exploring the many shades of software engineering — from designing scalable systems to making sense of intelligent models. I enjoy building things that work behind the scenes, orchestrating logic, data, and a bit of intuition.
+I'm a Computer Science student currently exploring the many shades of software engineering, from designing scalable systems to making sense of intelligent models. I enjoy building things that work behind the scenes, orchestrating logic, data, and a bit of intuition.
 
 - 🧠 I dabble with Machine Learning, often finding myself lost in the patterns and possibilities.
 - 🛠️ Backend engineering feels like a puzzle I can't stop solving.
 - 🌐 I do write frontend code sometimes...
-- 🧩 I like solving problems — sometimes that means building systems, other times it's tackling algorithmic challenges on quiet nights.
+- 🧩 I like solving problems, sometimes that means building systems, other times it's tackling algorithmic challenges on quiet nights.
 - 🎓 Currently pursuing a dual CS degree from BITS Pilani and Scaler School of Technology.
 
 You’ll often find me:
