@@ -55,4 +55,4 @@ Interested in engineering problems at the intersection of software development, 
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/mananagrawal21) 
+[LinkedIn](https://linkedin.com/in/mananagrawal21) · [X](https://x.com/Manan21st)
